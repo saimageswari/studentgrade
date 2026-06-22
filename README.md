@@ -3,10 +3,10 @@
 This is a simple Python-based application to manage student records and grades using file handling.
 
 ---
- 📌 Overview
+Overview
 The system allows users to add student details and view stored records. Data is saved in a text file, making it persistent and easy to manage.
 ---
-🚀 Features
+Features
 - Add student name and marks  
 - Store data using file handling  
 - View all student records  
@@ -15,6 +15,6 @@ The system allows users to add student details and view stored records. Data is 
  🛠 Technologies Used
 - Python  
 ---
-   📂 File Structure
+ File Structure
 - main.py → Main Python program  
 - students.txt → Stores student data  
